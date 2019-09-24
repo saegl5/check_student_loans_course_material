@@ -1,0 +1,28 @@
+Open each PDF file with Acrobat Reader DC (https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html).
+
+Each file consists of an introductory script, app overview, course material and feedback template.
+"Informal Pilot Test.pdf," "Focus Groups.pdf," and "Panel Discussion.pdf" also begin with a script for inviting subjects/experts to participate in the study.
+
+Instructional App = course material + Android/iOS app
+
+How to Replicate Any Portion of the Study
+----------------------------------------------
+
+Invite subjects/experts to participate in the study.
+When one meets with the participants, follow the introductory script. Keep the app overview for personal reference.
+Course material is distributed to subjects/experts for them to complete. However, do not simply hand them the material; illustrate some examples briefly.
+Once subjects/experts are done, ask them to provide feedback.
+
+--------------------------------------------------------------------------------------------------
+Optional
+
+Prerequisites: gnupg (https://www.gnupg.org/)
+
+To verify the authenticity of the PDF files in Terminal:
+$ gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
+$ gpg --verify SHA1SUMS.gpg SHA1SUMS (example)
+
+To verify the integrity of the PDF files in Terminal:
+$ shasum -a 1 -c SHA1SUMS (example)
+
+--------------------------------------------------------------------------------------------------
