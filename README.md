@@ -32,17 +32,15 @@ $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
-### latest.md (course material in markdown format)
+### latest.md<br>(course material in markdown format)
 
->&nbsp;<br>
 >Open and edit "latest.md" with a text editor (e.g., Notepad, TextEdit or gedit).<p>
 >Then, convert it to a Microsoft Word document.<br>
 >To convert the file, install [Pandoc](https://pandoc.org/ "Click here for more information.") and open a terminal:
 >```
 >$ pandoc --lua-filter gitlab-math.lua -s latest.md -o latest.docx
 >```
->Afterward, open "latest.docx" with Microsoft Word.<br>
->&nbsp;
+>Afterward, open "latest.docx" with Microsoft Word.
 
 The markdown file's latest version is 1.5.2. The Lua filter requires Pandoc version 2.0 or higher. Known to work on Windows 10 Pro version 1903, in Microsoft Word for Office 365 version 1908 (64-bit)
 
@@ -54,7 +52,7 @@ However, instructors should not simply hand them the material; they should illus
 Students answer some questions in the course material with the native app, some not.
 On how to proceed from there is the instructor's discretion.
 
-### Alternative Build Method
+## Alternative Build Method
 
 Install Pandoc *and* [R](https://www.r-project.org "Click here for more information."); open a terminal; then, use R to render the file as a Microsoft Word document: (R utilizes Pandoc in the background)
 ```
@@ -67,7 +65,7 @@ The benefit to rendering markdown with R is that one can embed executable R [cod
 
 ## Contributing
 
-Sign into GitLab, to fork the project.<p>
+Sign into GitLab, and fork the project.<p>
 
 Modify the course material.<br>
 Under Source Control, select Commit, and Push the changes.<p>
