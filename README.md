@@ -13,7 +13,7 @@ Alternative downloads:<br>
 [Version 1.x for Focus Groups](./Archives/focus_groups.pdf "Click here to access the download link.")<br>
 [Version 1.x for Panel Discussion](./Archives/panel_discussion.pdf "Click here to access the download link.")<br>
 [Version 1.5.2 - Summative Copy](./Archives/summative_copy.pdf "Click here to access the download link.")<p>
-<!--[Version 2.7.2 - Latest](./Archives/latest-2_7_2.ipa "Click here to access the download link.") (Updated: August 16, 2019)<p>-->
+<!--[Version 2.7.2 - Latest](./Archives/latest.ipa "Click here to access the download link.") (Updated: August 16, 2019)<p>-->
 Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Click here to access the download link.").
 
 ## Build from Source Code
@@ -42,7 +42,7 @@ Check that the hash matches the commit SHA.<p>
 >```
 >Afterward, open "latest.docx" with Microsoft Word.
 
-The markdown file's latest version is 1.5.2. The Lua filter requires Pandoc version 2.0 or higher. Known to work on Windows 10 Pro version 1903, in Microsoft Word for Office 365 version 1908 (64-bit)
+The markdown file's latest version is 1.5.2; its version matches its archived PDF file version. The Lua filter requires Pandoc version 2.0 or higher. Known to work on Windows 10 Pro version 1903, in Microsoft Word for Office 365 version 1908 (64-bit)
 
 ## Usage
 
