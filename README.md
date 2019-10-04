@@ -3,7 +3,7 @@
 
 # ![Alt](./app_icon_and_logo.png "Check Student Loans"): Course Material
 
-This project consists of course material. The course material is one of two parts of an experimental study&mdash;the other part being a [native app](https://gitlab.com/saegl5/check-student-loans-for-ios "Click here to access the native app's repository."), and it is designed to be supplemented by the native app.
+This project consists of course material. The course material is one of two parts of an experimental study&mdash;the other part being a [native app](https://gitlab.com/check-student-loans/ios "Click here to access the native app's repository."), and it is designed to be supplemented by the native app.
 The combination of both parts is dubbed an *instructional app*.<p>
 
 Alternative downloads:<br>
@@ -20,14 +20,14 @@ Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acro
 
 Clone the project:
 <pre>
-$ git clone https://gitlab.com/saegl5/check-student-loans-course-material.git
+$ git clone https://gitlab.com/check-student-loans/course-material.git
 </pre>
 
 (Recommended) Verify the project's authenticity: Look for "Verified" next to the commit SHA (e.g., Verified e733a45d).
 
 (Recommended) Open a terminal, and verify the project's integrity:
 <pre>
-$ cd /path/to/check-student-loans-course-material
+$ cd /path/to/course-material
 $ git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
@@ -46,7 +46,7 @@ The markdown file's latest version is 1.5.2; its version matches its archived PD
 
 ## Usage
 
-Instructors follow an introductory script and can keep an app overview for their personal reference; consult [other resources](https://gitlab.com/saegl5/check-student-loans-other-resources "Click here to access the repository for other resources.") for more information.
+Instructors follow an introductory script and can keep an app overview for their personal reference; consult [other resources](https://gitlab.com/check-student-loans/other-resources "Click here to access the repository for other resources.") for more information.
 The course material is distributed to students for them to complete. 
 However, instructors should not simply hand them the material; they should illustrate some examples briefly.
 Students answer some questions in the course material with the native app, some not.
