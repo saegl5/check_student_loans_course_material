@@ -75,6 +75,7 @@ For any issues, submit a new issue or discuss an existing one.<p>
 
 ## History
 
+Sep 25, 2019: unified author name and email of all commits<br>
 Sep 1-2, 2019 &middot; Version 1.5.2: merged resources from two repositories into one new repository, using BFG Repo-Cleaner purged remnants of the resources from the original repositories, archived pdf files<br>
 Aug 27, 2019 &middot; Version 1.5.1: updated interest rate and default numbers, aligned how savings and change in savings are calculated and displayed<br>
 Aug 25, 2019 &middot; Version 1.5: updated course material<br>
