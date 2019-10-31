@@ -19,17 +19,19 @@ Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acro
 
 ## Build from Source Code
 
-Clone the project:
+Download and install [Pandoc](https://pandoc.org/ "Click here for more information.") and [Git](https://git-scm.com/downloads "Click here to access the download link.").
+
+Open a terminal, and clone the project:
 <pre>
-$ git clone https://gitlab.com/check-student-loans/course-material.git
+git clone https://gitlab.com/check-student-loans/course-material.git
 </pre>
 
-(Recommended) Verify the project's authenticity: Look for "Verified" next to the commit SHA (e.g., Verified e733a45d).
+(Recommended) Verify the project's authenticity: Look in GitLab for "Verified" next to the commit SHA (e.g., Verified e733a45d).
 
 (Recommended) Open a terminal, and verify the project's integrity:
 <pre>
-$ cd /path/to/course-material
-$ git show-ref --heads --hash
+cd course-material
+git show-ref --heads --hash
 </pre>
 Check that the hash matches the commit SHA.<p>
 
@@ -37,9 +39,9 @@ Check that the hash matches the commit SHA.<p>
 
 >Open and edit "latest.md" with a text editor (e.g., Notepad, TextEdit or gedit).<p>
 >Then, convert it to a Microsoft Word document.<br>
->To convert the file, install [Pandoc](https://pandoc.org/ "Click here for more information.") and open a terminal:
+>To convert the file, open a terminal:
 >```
->$ pandoc --lua-filter gitlab-math.lua -s latest.md -o latest.docx
+>pandoc --lua-filter gitlab-math.lua -s latest.md -o latest.docx
 >```
 >Afterward, open "latest.docx" with Microsoft Word.
 
@@ -55,9 +57,9 @@ On how to proceed from there is the instructor's discretion.
 
 ## Alternative Build Method
 
-Install Pandoc *and* [R](https://www.r-project.org "Click here for more information."); open a terminal; then, use R to render the file as a Microsoft Word document: (R utilizes Pandoc in the background)
+Install Pandoc, Git *and* [R](https://www.r-project.org "Click here for more information."); open a terminal; then, use R to render the file as a Microsoft Word document: (R utilizes Pandoc in the background)
 ```
-$ R
+R
 > install.packages("rmarkdown")
 > library(rmarkdown)
 > render("latest.md")
