@@ -18,34 +18,37 @@ output:
 
 # Part 1 – **NO** app
 
-**Directions: please answer the following
-questions WITHOUT using the app.**
+**Directions: please answer the following questions WITHOUT using the app.**
 
 1. What is your yearly cost of tuition? (excluding fees)
-**$ _______________**
+   
+   ```
+   $ _____________________________________
+   ```
 
 &nbsp;
 &nbsp;
 
 *Feel free to use the following chart to help you:*
 
-| TUITION RATES | Full Time | Part-Time |
-|:-|:-|:-|
-| **Residents of New York City who are:** | | |
-| Matriculated Students | $2400 per semester | $210 per credit |
-| Non-Matriculated Students | $265 per credit | $265 per credit |
-| **Non-Residents of New York City who are:** | | |
-| Residents of New York State with B-81 on file | $2400 per semester | $210 per credit |
-| Residents of New York State without B-81 on file | $320 per credit | $320 per credit |
-| Out-of-State Residents | $320 per credit | $320 per credit |
-| International Students | $320 per credit | $320 per credit |
-| Non-Matriculated Students | $420 per credit | $420 per credit |
+| TUITION RATES                                    | Full Time          | Part-Time       |
+|:------------------------------------------------ |:------------------ |:--------------- |
+| **Residents of New York City who are:**          |                    |                 |
+| Matriculated Students                            | $2400 per semester | $210 per credit |
+| Non-Matriculated Students                        | $265 per credit    | $265 per credit |
+| **Non-Residents of New York City who are:**      |                    |                 |
+| Residents of New York State with B-81 on file    | $2400 per semester | $210 per credit |
+| Residents of New York State without B-81 on file | $320 per credit    | $320 per credit |
+| Out-of-State Residents                           | $320 per credit    | $320 per credit |
+| International Students                           | $320 per credit    | $320 per credit |
+| Non-Matriculated Students                        | $420 per credit    | $420 per credit |
 
 **Source:** [URL]
 
 *"Full time" is 12-18 credits/equated credits.*  
 *"Matriculated" means to be enrolled in a degree program.*  
 *"B-81" is a Certificate of Residence.*
+
 <!-- two empty spaces after end of sentence creates new paragraph -->
 
 &nbsp;
@@ -92,22 +95,22 @@ questions USING the app.**
 
 *Tips to help you get started:*
 
-  - Move the thumb of the slider, to select an estimated cost nearest to
-    yours.
+- Move the thumb of the slider, to select an estimated cost nearest to
+  yours.
 
-  - Press ▼ to select the interest rate of your loan.
-    
-    If you have more than one type of loan
-    <span class="underline">or</span> you have multiple loans, select
-    the rate for the biggest one.
-    
-    If you are unsure about your rate, choose 4.53% since Direct Loans
-    are more common.
+- Press ▼ to select the interest rate of your loan.
+  
+  If you have more than one type of loan
+  <span class="underline">or</span> you have multiple loans, select
+  the rate for the biggest one.
+  
+  If you are unsure about your rate, choose 4.53% since Direct Loans
+  are more common.
 
-  - Press – or + to select a monthly payment nearest to yours.
+- Press – or + to select a monthly payment nearest to yours.
 
-  - To edit the slider, interest rate or monthly payment, press the
-    padlock icon. After editing them, relock.
+- To edit the slider, interest rate or monthly payment, press the
+  padlock icon. After editing them, relock.
 
 5\. Compared to \#3, is your result for \#4 reasonable? Why or why not?
 
@@ -129,8 +132,8 @@ monthly, so that your repayment does not take so long?
 <span class="underline">can</span> contact your lenders and negotiate
 with them.*
 
-*  
-*
+* 
+* 
 
 # Bonus Questions – app
 
@@ -140,6 +143,7 @@ questions USING the app.**
 *Questions 7 through 8 reinforce question 6.*
 
 7\. Reduce your monthly payment to the minimum. From the minimum, press
+
 + once. How much money can you save?
 
 *To see how the app calculates savings, press the padlock icon;*
