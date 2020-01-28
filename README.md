@@ -12,7 +12,7 @@ Alternative downloads:<br>
 [Version 1.x for Informal Pilot Test](./Archives/informal_pilot_test.pdf "Click here to access the download link.")<br>
 [Version 1.x for Focus Groups](./Archives/focus_groups.pdf "Click here to access the download link.")<br>
 [Version 1.x for Panel Discussion](./Archives/panel_discussion.pdf "Click here to access the download link.")<br>
-[Version 1.5.2 - Summative Copy](./Archives/summative_copy.pdf "Click here to access the download link.")<br>
+[Version 1.5.2 - Summative Copy](./Archives/summative.pdf "Click here to access the download link.")<br>
 [Version 1.5.2 - Latest](./Archives/latest.pdf "Click here to access the download link.") (Oct 3, 2019)<p>
 
 Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Click here to access the download link.").
