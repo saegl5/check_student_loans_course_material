@@ -8,8 +8,8 @@ The combination of both parts is dubbed an *instructional app*.<p>
 
 Alternative downloads:<br>
 [Version 1.x for Feasibility Test](./Archives/feasibility_test.pdf "Click here to access the download link.")<br>
-[Version 1.x for Formal Pilot Test](./Archives/formal_pilot_test.pdf "Click here to access the download link.")<br>
-[Version 1.x for Informal Pilot Test](./Archives/informal_pilot_test.pdf "Click here to access the download link.")<br>
+[Version 1.x for Formal Field Test](./Archives/formal_field_test.pdf "Click here to access the download link.")<br>
+[Version 1.x for Informal Field Test](./Archives/informal_field_test.pdf "Click here to access the download link.")<br>
 [Version 1.x for Focus Groups](./Archives/focus_groups.pdf "Click here to access the download link.")<br>
 [Version 1.x for Panel Discussion](./Archives/panel_discussion_after-third-meeting.pdf "Click here to access the download link.") (after third meeting)<br>
 [Version 1.5.2 - Summative Copy](./Archives/summative.pdf "Click here to access the download link.")<br>
