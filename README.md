@@ -7,13 +7,13 @@ This project consists of course material. The course material is one of two part
 The combination of both parts is dubbed an *instructional app*.<p>
 
 Alternative downloads:<br>
-[Version 1.x for Feasibility Test](./Archives/feasibility_test.pdf "Click here to access the download link.")<br>
-[Version 1.x for Formal Field Test](./Archives/formal_field_test.pdf "Click here to access the download link.")<br>
-[Version 1.x for Informal Field Test](./Archives/informal_field_test.pdf "Click here to access the download link.")<br>
-[Version 1.x for Focus Groups](./Archives/focus_groups.pdf "Click here to access the download link.")<br>
-[Version 1.x for Panel Discussion](./Archives/panel_discussion_after-third-meeting.pdf "Click here to access the download link.") (after third meeting)<br>
-[Version 1.5.2 - Summative Copy](./Archives/summative.pdf "Click here to access the download link.")<br>
-[Version 1.5.2 - Latest](./Archives/latest.pdf "Click here to access the download link.") (Oct 3, 2019)<p>
+[Version 1.x for Feasibility Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/feasibility_test.pdf "Click here to access the download link.")<br>
+[Version 1.x for Formal Field Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/formal_field_test.pdf "Click here to access the download link.")<br>
+[Version 1.x for Informal Field Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/informal_field_test.pdf "Click here to access the download link.")<br>
+[Version 1.x for Focus Groups](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/focus_groups.pdf "Click here to access the download link.")<br>
+[Version 1.x for Panel Discussion](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/panel_discussion_after-third-meeting.pdf "Click here to access the download link.") (after third meeting)<br>
+[Version 1.5.2 - Summative Copy](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/summative.pdf "Click here to access the download link.")<br>
+[Version 1.5.2 - Latest](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/latest.pdf "Click here to access the download link.") (Oct 3, 2019)<p>
 
 Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Click here to access the download link.").
 
