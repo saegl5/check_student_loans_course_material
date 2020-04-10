@@ -1,7 +1,9 @@
 <snippet>
 <content>
 
-# ![Alt](./app_icon_and_logo.png "Check Student Loans"): Course Material
+![Alt](./app_icon_and_logo.png "Check Student Loans")
+
+## Course Material
 
 This project consists of course material. The course material is one of two parts of an experimental study&mdash;the other part being a [native app](https://gitlab.com/check-student-loans/ios "Click here to access the native app's repository."), and it is designed to be supplemented by the native app.
 The combination of both parts is dubbed an *instructional app*.<p>
