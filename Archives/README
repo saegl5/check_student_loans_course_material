@@ -1,4 +1,5 @@
 Open each PDF file with Acrobat Reader DC (https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html).
+Open each DOCX file with Microsoft Word.
 
 Instructional App = course material + Android/iOS app
 
@@ -7,16 +8,17 @@ How to Verify Downloads
 
 Prerequisites: gnupg (https://www.gnupg.org/)
 
-To verify the authenticity of the PDF files in a terminal:
+To verify the authenticity of the PDF and DOCX files in a terminal:
 $ gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-keys 0x4191f431
 $ gpg --verify SHA1SUMS.gpg SHA1SUMS
 
-To verify the integrity of the PDF files in a terminal:
+To verify the integrity of the PDF and DOCX files in a terminal:
 Ubuntu: $ sha1sum -c SHA1SUMS
 macOS: $ shasum -a 1 -c SHA1SUMS
 
 Windows: 
 $ ls *.pdf | Get-FileHash -Algorithm SHA1
+$ ls *.docx | Get-FileHash -Algorithm SHA1
 $ Get-Content .\SHA1SUMS
 (check that hashes match)
 
