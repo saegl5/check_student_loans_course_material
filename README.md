@@ -73,7 +73,7 @@ The benefit to rendering markdown with R is that one can embed executable R [cod
 Sign into GitLab, and fork the project.<p>
 
 Modify the course material.<br>
-Under Source Control, select Commit, and Push the changes.<p>
+Stage, commit and push the changes.<p>
 
 Return to GitLab, and submit a new pull request.<br>
 To report any issues, submit a new issue or discuss an existing one.<p>
