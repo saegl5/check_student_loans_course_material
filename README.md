@@ -83,7 +83,7 @@ Sep 1-2, 2019 &middot; Version 1.5.2: merged resources from two repositories int
 Aug 27, 2019 &middot; Version 1.5.1: updated interest rate and default numbers, aligned how savings and change in savings are calculated and displayed \
 Aug 25, 2019 &middot; Version 1.5: updated course material \
 Aug 20, 2019 &middot; Version 1.4: reorganized resources again, corrected spreadsheet \
-Aug 8, 2019 &middot; Version 1.3: reorganized resources, provided raw files for images, added READMEs \
+Aug 8, 2019 &middot; Version 1.3: reorganized resources, provided raw files for images, added README files \
 Jul 29-Aug 5, 2019 &middot; Version 1.2: uploaded Ten-Year_Minimum_Errors.ipynb, updated other documents \
 Jul 2-6, 2019 &middot; Version 1.1.3: split deeper_insight.docx into two documents, typeset them in LaTeX, uploaded each pdf produced from each TeX source, revised checking_calculations.xlsx, updated overview \
 Jul 10-11, 2018 &middot; Version 1.1.2: updated documents \
