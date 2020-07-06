@@ -18,7 +18,7 @@ output:
 
 # Part 1 – **NO** app
 
-**Directions: please answer the following questions WITHOUT using the app.**
+**Directions: Please answer the following questions WITHOUT using the app.**
 
 1. What is your yearly cost of tuition? (excluding fees)
    
@@ -81,7 +81,7 @@ months*
 
 # Part 2 – app
 
-**Directions: please answer the following
+**Directions: Please answer the following
 questions USING the app.**
 
 4\. How long will it take to pay the government back?
