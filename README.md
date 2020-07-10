@@ -11,8 +11,8 @@ Alternative downloads: \
 [Version 1.x for Informal Field Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/informal_field_test.pdf "Click here to access the download link.") \
 [Version 1.x for Focus Groups](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/focus_groups.pdf "Click here to access the download link.") \
 [Version 1.x for Panel Discussion](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/panel_discussion_after-third-meeting.pdf "Click here to access the download link.") (after third meeting) \
-[Version 1.5.2 - Summative Copy](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/summative.pdf "Click here to access the download link.") \
-[Version 1.5.2 - Latest](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/latest.pdf "Click here to access the download link.") (Oct 3, 2019)
+[Version 1.5.2 - Summative Copy](https://gitlab.com/check-student-loans/course-material/-/blob/0a7ea7e0c243af2595b9041cb1d9270ff166c63b/Archives/summative.pdf "Click here to access the download link.") \
+[Version 1.5.2 - Latest](https://gitlab.com/check-student-loans/course-material/-/blob/0a7ea7e0c243af2595b9041cb1d9270ff166c63b/Archives/latest.pdf "Click here to access the download link.") (Jul 9, 2020)
 
 Open each PDF file with [Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Click here to access the download link.").
 
