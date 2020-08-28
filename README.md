@@ -6,7 +6,7 @@ This project consists of course material. The course material is one of two part
 The combination of both parts is dubbed an *instructional app*.
 
 Alternative downloads: \
-[Version 1.x for Feasibility Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/feasibility_test.pdf "Click here to access the download link.") \
+[Version 1.x for Feasibility Test](https://gitlab.com/check-student-loans/course-material/-/blob/77e74650baa3c73d135755cb58e6ebe0d240391f/Archives/feasibility_test.pdf "Click here to access the download link.") \
 [Version 1.x for Formal Field Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/formal_field_test.pdf "Click here to access the download link.") \
 [Version 1.x for Informal Field Test](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/informal_field_test.pdf "Click here to access the download link.") \
 [Version 1.x for Focus Groups](https://gitlab.com/check-student-loans/course-material/-/blob/5eea1410700e7b112d0c845e4b4be97fe9e4bad4/Archives/focus_groups.pdf "Click here to access the download link.") \
